@@ -1,2 +1,2 @@
 Module 3 Assignment : HTML-CSS-and-Javascript-for-Web-Developers
-https://github.com/host712/HTML-CSS-and-Javascript-for-Web-Developers/tree/main/Module-3
+https://host712.github.io/HTML-CSS-and-Javascript-for-Web-Developers/Module-3/index.html
